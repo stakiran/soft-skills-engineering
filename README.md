@@ -9,4 +9,4 @@ SSE は [sta](https://github.com/stakiran) が整備した体系です。開発�
 
 ## ドキュメントを見る
 - [Website](https://stakiran.github.io/soft-skills-engineering/)
-- GitHub: [日本語](index.md) | [English](index_EN.md)
+- [GitHub](index.md)
