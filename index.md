@@ -8,6 +8,7 @@
     - [About This Book](00_about_EN.md)
 - 01
     - [ソフトスキル・エンジニアリングとは](01_what_is.md)
+    - [What Is Soft Skill Engineering?](01_what_is_EN.md)
 - 02
     - [ソフトスキルの全体像](02_overview.md)
 - 03
