@@ -1,14 +1,12 @@
-# Soft Skills Engineering
+# ソフトスキル・エンジニアリング | [English](README_EN.md)
+ソフトウェア・エンジニアリングではなく、**ソフトスキル・エンジニアリング** です。略称についても SWE ではなく SSE を使います。
 
-## About This Document
-This isn't Software Engineering; it's **Soft Skills Engineering**. For the abbreviation, we use SSE rather than SWE.
+SSE は [sta](https://github.com/stakiran) が整備した体系です。開発者が敬遠しがちなソフトスキルを、開発者自身が自在に扱えるようになることを目指します。
 
-SSE is a framework organized by [sta](https://github.com/stakiran). It aims to help developers become able to handle soft skills freely—skills that developers often tend to avoid.
+私達は必要に応じてソフトウェアを使ったりつくったり修正したりしますが、ソフトスキルも同様です。つまり SSE では **ソフトスキルもエンジニアリングの対象とみなします**。そのために必要な知識を整理し、読者が素養と勘所を入手するのを支援します。
 
-As needed, we use, build, and modify software—and soft skills are the same. In other words, SSE **treats soft skills as something that can be engineered**. To do so, it organizes the necessary knowledge and supports readers in acquiring the fundamentals and key points.
+## ドキュメントを見る
+目次からアクセスしてください。
 
-## Read the Documents
-Please access them from the table of contents.
-
-- [Japanese](index.md)
+- [日本語](index.md)
 - [English](index_EN.md)
