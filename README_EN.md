@@ -1,12 +1,11 @@
 # Soft Skills Engineering | [English](README_EN.md)
-This isn't Software Engineering—it's **Soft Skills Engineering**. For the abbreviation, we use SSE rather than SWE.
+## What is this?
+This is not **Software Engineering**, but **Soft Skills Engineering**. Even the abbreviation is SSE, not SWE.
 
-SSE is a framework organized by [sta](https://github.com/stakiran). It aims to help developers gain the ability to handle soft skills freely—skills developers tend to shy away from.
+SSE is a framework organized by [sta](https://github.com/stakiran). It aims to help developers become able to handle soft skills freely—skills that developers tend to shy away from.
 
-We use, build, and modify software as needed, and soft skills are the same. In other words, SSE **treats soft skills as an engineering domain**. To make that possible, we organize the necessary knowledge and support readers in acquiring the fundamentals and the key points.
+We use, build, and modify software as needed; soft skills are no different. In other words, SSE **treats soft skills as an engineering subject** as well. To that end, it organizes the necessary knowledge and supports readers in acquiring the fundamentals and key insights.
 
 ## View the documents
-Access them from the table of contents.
-
-- [Japanese](index.md)
-- [English](index_EN.md)
+- [Website](https://github.com/stakiran/soft-skills-engineering)
+- GitHub: [Japanese](index.md) | [English](index_EN.md)

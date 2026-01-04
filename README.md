@@ -1,4 +1,6 @@
 # ソフトスキル・エンジニアリング | [English](README_EN.md)
+
+## これは何？
 ソフトウェア・エンジニアリングではなく、**ソフトスキル・エンジニアリング** です。略称についても SWE ではなく SSE を使います。
 
 SSE は [sta](https://github.com/stakiran) が整備した体系です。開発者が敬遠しがちなソフトスキルを、開発者自身が自在に扱えるようになることを目指します。
@@ -6,7 +8,5 @@ SSE は [sta](https://github.com/stakiran) が整備した体系です。開発�
 私達は必要に応じてソフトウェアを使ったりつくったり修正したりしますが、ソフトスキルも同様です。つまり SSE では **ソフトスキルもエンジニアリングの対象とみなします**。そのために必要な知識を整理し、読者が素養と勘所を入手するのを支援します。
 
 ## ドキュメントを見る
-目次からアクセスしてください。
-
-- [日本語](index.md)
-- [English](index_EN.md)
+- [Website](https://github.com/stakiran/soft-skills-engineering)
+- GitHub: [日本語](index.md) | [English](index_EN.md)
